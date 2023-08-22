@@ -1,4 +1,4 @@
-# Prediction_of_Media-Memorability
+# Prediction-of-Media-Memorability
 Neural networks and Deep Learning models are used to predict the memorability of videos. CNN, MLP and RNN are used as part of this work.  
 
 #Code Implementation  
